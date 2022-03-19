@@ -1,0 +1,5 @@
+www.google.com
+www.github.com
+apnews.com
+192.168.1.12
+web.mit.edu
